@@ -40,6 +40,6 @@ Jquery helps me so much instead of writing a lot of code. The principle of DRY r
 
 ## Screenshots
 
-![Screenshot](./assets/Screenshot.jpg)
+![Screenshot](/assets/Screenshot.jpg)
 
-![Demonstration](./assets/Demo_Planner.gif)
+![Demonstration](/assets/Demo_Weather_Dashboard.gif)
