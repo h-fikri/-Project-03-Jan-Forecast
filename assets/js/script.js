@@ -1,4 +1,4 @@
-const API_KEY = "b3d9b7e7cbeaaec6aab9e0d718d9f2c7";
+const API_KEY = "303e4b50b252c8b4341353d69b2f9319";
 const city = "London, UK";
 const forecastContainer = document.getElementById("forecast");
 
